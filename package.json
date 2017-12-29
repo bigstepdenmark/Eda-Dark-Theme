@@ -1,0 +1,32 @@
+{
+	"name": "eda-dark",
+	"displayName": "Eda Dark",
+	"description": "Eda Dark Theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "bigstepdenmark",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bigstepdenmark/eda-dark-theme.git"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Eda Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/edadark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": ""
+	}
+}
