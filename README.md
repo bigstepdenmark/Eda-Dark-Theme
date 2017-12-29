@@ -3,7 +3,7 @@
 
 Eda Dark is a simple workbench theme for [Visual Studio Code](https://code.visualstudio.com), and optimized for SCSS, HTML, JS, TS, Markdown, and PHP files.
 
-The Font-family i used in screenshots is *"Menlo, Monaco, 'Courier New', monospace"*.
+The Font-family i used in screenshots is *"Menlo, Monaco, 'Courier New', monospace".*
 
 ---
 
