@@ -1,7 +1,4 @@
 # Eda Dark Theme for Visual Studio Code
-<p align="center">
-	[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/version)](https://packagist.org/packages/phpunit/phpunit)
-</p>
 ![Screenshot](screenshots/front-vsc.png)
 
 Eda Dark is a simple workbench theme for [Visual Studio Code](https://code.visualstudio.com), and optimized for SCSS, HTML, JS, TS, Markdown, and PHP files.
