@@ -21,6 +21,11 @@
 				"label": "Eda Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/edadark-color-theme.json"
+			},
+			{
+				"label": "Eda Dark Laracasts",
+				"uiTheme": "vs-dark",
+				"path": "./themes/edadark-laracasts-color-theme.json"
 			}
 		]
 	},
